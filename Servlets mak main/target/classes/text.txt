@@ -1,0 +1,18 @@
+Сервер
+JSessionId {7D6D9B7C0D70E0B0D0EFA5851001497D} atribute {user_id, color, "autenticated"}
+
+Барузер 1
+JSESSIONID {7D6D9B7C0D70E0B0D0EFA5851001497D} atribute {2, green, true}
+
+Браузер 2
+JSESSION {9F6D9B7C0K%$FE0LB0D0EF72051001497D} atribute {5, red, false}
+
+в семестровой работе:
+1) Регистрация
+2) Авторизация
+3) Профиль с возможностью что то изменить
+4) 6 jsp
+5) Работа с куками и сессиями, BCrypt
+6) Админка сами придумаете что будете изменять
+7) Загрузка файлов
+
